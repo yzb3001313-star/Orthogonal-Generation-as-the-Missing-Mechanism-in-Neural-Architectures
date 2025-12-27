@@ -3,3 +3,5 @@
 
 ## 原创性声明
 本仓库所有内容为独立开发，首次公开时间以GitHub commit记录为准，与Zenodo预印本形成交叉留痕。
+
+Email:   yzb3001313@gmail.com   382909119@qq.com
